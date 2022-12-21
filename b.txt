@@ -1,2 +1,3 @@
 Arquivo B.txt
 Alterei na feature1
+Outra alteração
